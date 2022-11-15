@@ -1,6 +1,6 @@
 # Hive 3.1.2
 
-![image-20221008085321738](Hive 3.1.2.assets/image-20221008085321738.png)
+![image-20221008085321738](https://raw.githubusercontent.com/moondream69/Hive/main/Hive 3.1.2.assets/image-20221008085321738.png)
 
 
 
