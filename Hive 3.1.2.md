@@ -135,7 +135,7 @@ Hive本质是将SQL转换为MapReduce的任务进行运算，底层由HDFS来提
 
 ### Hive架构
 
-![image-20221009083749107](Hive 3.1.2.assets/image-20221009083749107.png)
+![image-20221009083749107](./Hive 3.1.2.assets/image-20221009083749107.png)
 
 #### Client
 
